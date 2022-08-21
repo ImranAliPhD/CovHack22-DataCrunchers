@@ -1,2 +1,2 @@
 # CovHack22-DataCrunchers
-This is the repo to host file for Data Crunchers team's entry into GovHack22 competition
+This is a repo to host the files for the team 'Data Crunchers' in the GovHack22 competition.
